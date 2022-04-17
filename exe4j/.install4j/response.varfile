@@ -1,0 +1,5 @@
+# install4j response file for exe4j 8.0
+executeLauncherAction$Boolean=true
+sys.adminRights$Boolean=true
+sys.installationDir=D\:\\SOF2041\\thamkhao\\PS13132_LanhQuocKhanh_SOF2041\\exe4j
+sys.languageId=en

@@ -1,0 +1,681 @@
+[INFO] Logger started at 2021-10-23 13:52:07
+[INFO] Executable name: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\product\exe4j_windows-x64_8_0.exe
+[INFO] install4j version: @VERSION@ (build @BUILD_NUMBER@)
+[INFO] Properties: 
+-- listing properties --
+sun.desktop=windows
+awt.toolkit=sun.awt.windows.WToolkit
+java.specification.version=11
+sun.cpu.isalist=amd64
+sun.jnu.encoding=Cp1252
+java.class.path=C:\Users\quang\AppData\Local\Temp\e4j...
+sun.awt.enableExtraMouseButtons=true
+java.vm.vendor=JetBrains s.r.o.
+sun.arch.data.model=64
+install4j.exeDir=D:\SOF2041\thamkhao\PS13132_LanhQuocK...
+user.variant=
+java.vendor.url=https://openjdk.java.net/
+user.timezone=Asia/Bangkok
+swing.bufferPerWindow=false
+os.name=Windows 10
+java.vm.specification.version=11
+user.country=US
+sun.boot.library.path=c:\users\quang\appdata\local\temp\e4j...
+sun.java.command=D:\SOF2041\thamkhao\PS13132_LanhQuocK...
+jdk.debug=release
+sun.cpu.endian=little
+user.home=C:\Users\quang
+exe4j.unextractedPosition=45630119
+user.language=en
+jdk.http.auth.tunneling.disabledSchemes=
+java.specification.vendor=Oracle Corporation
+java.version.date=2020-11-04
+java.home=c:\users\quang\appdata\local\temp\e4j...
+file.separator=\
+java.vm.compressedOopsMode=Zero based
+line.separator=
+
+java.specification.name=Java Platform API Specification
+java.vm.specification.vendor=Oracle Corporation
+jdk.lang.Process.allowAmbiguousCommands=false
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+exe4j.moduleName=D:\SOF2041\thamkhao\PS13132_LanhQuocK...
+exe4j.tempDir=C:\Users\quang\AppData\Local\Temp\e4j...
+user.script=
+exe4j.consoleCodepage=cp0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+exe4j.isInstall4j=true
+java.runtime.version=11.0.9.1+11-b1145.77
+user.name=quang
+path.separator=;
+os.version=10.0
+java.runtime.name=OpenJDK Runtime Environment
+file.encoding=Cp1252
+java.vm.name=OpenJDK 64-Bit Server VM
+java.vendor.version=JBR-11.0.9.1.11-1145.77-jcef
+exe4j.semaphoreName=Local\d:_sof2041_thamkhao_ps13132_lan...
+install4j.appDir=C:\Users\quang\AppData\Local\Temp\
+java.vendor.url.bug=https://bugreport.java.com/bugreport/
+java.io.tmpdir=C:\Users\quang\AppData\Local\Temp\
+java.version=11.0.9.1
+user.dir=C:\Users\quang\AppData\Local\Temp\e4j...
+os.arch=amd64
+java.vm.specification.name=Java Virtual Machine Specification
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+sun.os.patch.level=
+java.library.path=c:\users\quang\appdata\local\temp\e4j...
+java.vm.info=mixed mode
+java.vendor=JetBrains s.r.o.
+java.vm.version=11.0.9.1+11-b1145.77
+sun.io.unicode.encoding=UnicodeLittle
+java.class.version=55.0
+exe4j.launchName=D:\SOF2041\thamkhao\PS13132_LanhQuocK...
+[INFO] Variable changed: sys.resolveUserSpecificInstallationDir=false[class java.lang.String]
+[INFO] my modules file C:\Users\quang\AppData\Local\Temp\e4jB940.tmp_dir1634971921\jre\lib\modules, \Device\HarddiskVolume8\Users\quang\AppData\Local\Temp\e4jB940.tmp_dir1634971921\jre\lib\modules
+[INFO] com.install4j.runtime.beans.actions.misc.RequestPrivilegesAction [ID 165]: Execute action
+       Property linuxPrivilegeRequirement: None
+       Property allRequested: false
+       Property failIfNotObtainedLinux: false
+       Property failIfNotObtainedMac: true
+       Property failIfNotObtainedWin: true
+       Property failIfNotRootUnix: false
+       Property obtainIfAdminMac: false
+       Property obtainIfAdminWin: true
+       Property obtainIfNormalMac: false
+       Property obtainIfNormalWin: false
+       Property rollbackSupported: false
+       Property updateInstallationDirectory: true
+       Using communication backend com.install4j.runtime.installer.platform.win32.Win32CommunicationBackend
+       Execute action successful after 4748 ms
+[INFO] com.install4j.runtime.beans.screens.StartupScreen [ID 15]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.WelcomeScreen [ID 20]: Show screen
+[INFO] com.install4j.runtime.beans.screens.WelcomeScreen [ID 20]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.LicenseScreen [ID 21]: Show screen
+[INFO] com.install4j.runtime.beans.screens.LicenseScreen [ID 21]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.InstallationDirectoryScreen [ID 22]: Show screen
+       Variable changed: sys.installationDir=D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j[class java.lang.String]
+       checking writable with maximum
+[INFO] com.install4j.runtime.beans.actions.misc.LoadResponseFileAction [ID 75]: Execute action
+       Property excludedVariables: [sys.installationDir]
+       Property file: null
+       Property overwriteStrategy: Do not overwrite command line
+       Property registerForResponseFile: true
+       Property rollbackSupported: false
+       Response file D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\response.varfile does not exist
+       Execute action successful after 15 ms
+[INFO] com.install4j.runtime.beans.screens.InstallationDirectoryScreen [ID 22]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.InstallationScreen [ID 26]: Show screen
+[INFO] com.install4j.runtime.beans.actions.misc.CheckRunningProcessesAction [ID 303]: Execute action
+       Property additionalExecutables: null
+       Property closeStrategy: Ask user to manually close
+       Property message: install4j has detected that  exe4j is currently running.
+
+Please close the following processes, then click Retry to continue, or Cancel to exit.
+       Property timeOut: 5000
+       Property allowIgnore: false
+       Property includeLaunchers: true
+       Property rollbackSupported: false
+       Execute action successful after 53 ms
+[INFO] com.install4j.runtime.beans.actions.files.DeleteFileAction [ID 117]: Execute action
+       Property directoryFilter: null
+       Property fileFilter: null
+       Property files: [lib]
+       Property filesRoot: null
+       Property backupForRollback: true
+       Property recursive: true
+       Property rollbackSupported: true
+       Property showFileNames: true
+       Property showProgress: false
+       The file "D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib" does not exist
+       Execute action successful after 37 ms
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction [ID 28]: Execute action
+       Property directoryResolverScript: null
+       Property fileFilterScript: null
+       Property sizeCalculatorScript: null
+       Property acceptAllCertificates: false
+       Property checkFreeSpace: true
+       Property delay: false
+       Property installRuntime: true
+       Property rollbackSupported: true
+       Property saveDownloadedFiles: false
+       Property showFileNames: true
+       Property triggerReboot: true
+       Property validateApplicationId: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\attach.dll; size: 19456 bytes; exists: false
+       File options set to: [fileTime: Sat Oct 23 13:52:02 ICT 2021, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\awt.dll; size: 1548800 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\fontmanager.dll; size: 656896 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\freetype.dll; size: 522752 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\instrument.dll; size: 41472 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\j2gss.dll; size: 39936 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\j2pcsc.dll; size: 16384 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\j2pkcs11.dll; size: 67072 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\jaas.dll; size: 18432 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\jabswitch.exe; size: 35328 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\jaccessinspector.exe; size: 101376 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\jaccesswalker.exe; size: 61440 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\java.dll; size: 145408 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\java.exe; size: 23040 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\javaaccessbridge.dll; size: 147456 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\javajpeg.dll; size: 160768 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\javaw.exe; size: 23040 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\jawt.dll; size: 11264 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\jfr.exe; size: 13312 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\jimage.dll; size: 24576 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\jli.dll; size: 77312 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\jrunscript.exe; size: 13312 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\jsound.dll; size: 51712 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\keytool.exe; size: 13312 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\kinit.exe; size: 13312 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\klist.exe; size: 13312 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\ktab.exe; size: 13312 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\lcms.dll; size: 237056 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\le.dll; size: 25600 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\management.dll; size: 19456 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\management_agent.dll; size: 14848 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\management_ext.dll; size: 25600 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\mlib_image.dll; size: 504832 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\msvcp140.dll; size: 633120 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\net.dll; size: 84992 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\nio.dll; size: 56832 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\pack200.exe; size: 13312 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\prefs.dll; size: 15360 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\rmi.dll; size: 10752 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\rmid.exe; size: 13312 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\rmiregistry.exe; size: 13312 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\server\jvm.dll; size: 11017216 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\splashscreen.dll; size: 207872 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\sunec.dll; size: 141824 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\sunmscapi.dll; size: 36864 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\unpack.dll; size: 78848 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\unpack200.exe; size: 130048 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\vcruntime140.dll; size: 87864 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\verify.dll; size: 46080 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\w2k_lsa_auth.dll; size: 22016 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\windowsaccessbridge-64.dll; size: 197632 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\bin\zip.dll; size: 75776 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\logging.properties; size: 2731 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\management\jmxremote.access; size: 3997 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\management\jmxremote.password.template; size: 5690 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\management\management.properties; size: 14292 bytes; exists: false
+       File options set to: [fileTime: Sat Oct 23 13:52:03 ICT 2021, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\net.properties; size: 5352 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\security\java.policy; size: 2180 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\security\java.security; size: 53287 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\security\policy\limited\default_local.policy; size: 647 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\security\policy\limited\default_US_export.policy; size: 146 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\security\policy\limited\exempt_local.policy; size: 566 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\security\policy\README.txt; size: 2390 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\security\policy\unlimited\default_local.policy; size: 193 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\security\policy\unlimited\default_US_export.policy; size: 146 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\conf\sound.properties; size: 1210 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\include\classfile_constants.h; size: 21906 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\include\jawt.h; size: 12458 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\include\jni.h; size: 74987 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\include\jvmti.h; size: 84415 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\include\jvmticmlr.h; size: 4771 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\include\win32\bridge\AccessBridgeCallbacks.h; size: 5518 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\include\win32\bridge\AccessBridgeCalls.h; size: 36093 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\include\win32\bridge\AccessBridgePackages.h; size: 77582 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\include\win32\jawt_md.h; size: 1895 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\include\win32\jni_md.h; size: 1553 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.base\ADDITIONAL_LICENSE_INFO; size: 2114 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.base\aes.md; size: 1444 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.base\asm.md; size: 1582 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.base\ASSEMBLY_EXCEPTION; size: 1522 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.base\c-libutl.md; size: 1556 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.base\cldr.md; size: 2926 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.base\icu.md; size: 2930 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.base\LICENSE; size: 19274 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.base\public_suffix.md; size: 17785 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.base\unicode.md; size: 2957 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.base\zlib.md; size: 1011 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.compiler\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.compiler\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.compiler\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.datatransfer\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.datatransfer\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.datatransfer\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.desktop\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.desktop\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.desktop\colorimaging.md; size: 167 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.desktop\freetype.md; size: 28780 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.desktop\giflib.md; size: 1288 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.desktop\harfbuzz.md; size: 2753 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.desktop\jpeg.md; size: 3997 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.desktop\lcms.md; size: 1177 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.desktop\libpng.md; size: 5398 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.desktop\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.desktop\mesa3d.md; size: 5732 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.instrument\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.instrument\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.instrument\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.logging\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.logging\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.logging\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.management\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.management\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.management\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.management.rmi\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.management.rmi\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.management.rmi\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.naming\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.naming\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.naming\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.net.http\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.net.http\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.net.http\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.prefs\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.prefs\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.prefs\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.rmi\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.rmi\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.rmi\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.scripting\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.scripting\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.scripting\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.se\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.se\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.se\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.security.jgss\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.security.jgss\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.security.jgss\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.security.sasl\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.security.sasl\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.security.sasl\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.smartcardio\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.smartcardio\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.smartcardio\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.sql\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.sql\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.sql\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.sql.rowset\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.sql.rowset\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.sql.rowset\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.transaction.xa\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.transaction.xa\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.transaction.xa\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.xml\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.xml\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       File options set to: [fileTime: Sat Oct 23 13:52:04 ICT 2021, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.xml\bcel.md; size: 11503 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.xml\dom.md; size: 3028 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.xml\jcup.md; size: 1158 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.xml\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.xml\xalan.md; size: 13494 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.xml\xerces.md; size: 11852 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.xml.crypto\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       File options set to: [fileTime: Sat Oct 23 13:52:03 ICT 2021, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.xml.crypto\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.xml.crypto\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\java.xml.crypto\santuario.md; size: 11436 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.accessibility\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       File options set to: [fileTime: Sat Oct 23 13:52:04 ICT 2021, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.accessibility\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.accessibility\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.attach\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.attach\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.attach\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.charsets\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.charsets\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.charsets\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.crypto.cryptoki\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.crypto.cryptoki\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.crypto.cryptoki\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.crypto.cryptoki\pkcs11cryptotoken.md; size: 1858 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.crypto.cryptoki\pkcs11wrapper.md; size: 2131 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.crypto.ec\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.crypto.ec\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.crypto.ec\ecc.md; size: 29220 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.crypto.ec\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.crypto.mscapi\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.crypto.mscapi\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.crypto.mscapi\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.dynalink\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.dynalink\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.dynalink\dynalink.md; size: 1502 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.dynalink\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.httpserver\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.httpserver\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.httpserver\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.ed\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.ed\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.ed\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.jvmstat\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.jvmstat\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.jvmstat\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.le\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.le\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.le\jline.md; size: 1579 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.le\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.vm.ci\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.vm.ci\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.internal.vm.ci\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.jfr\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.jfr\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.jfr\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.localedata\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.localedata\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.localedata\cldr.md; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.localedata\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.localedata\thaidict.md; size: 1346 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.management\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.management\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.management\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.management.agent\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.management.agent\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.management.agent\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.management.jfr\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.management.jfr\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.management.jfr\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.naming.dns\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.naming.dns\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.naming.dns\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.naming.rmi\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.naming.rmi\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.naming.rmi\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.net\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.net\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.net\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.pack\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.pack\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.pack\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.sctp\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.sctp\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.sctp\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.security.auth\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.security.auth\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.security.auth\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.security.jgss\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.security.jgss\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.security.jgss\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.unsupported\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.unsupported\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.unsupported\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.unsupported.desktop\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.unsupported.desktop\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.unsupported.desktop\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.xml.dom\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.xml.dom\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.xml.dom\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.zipfs\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.zipfs\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\legal\jdk.zipfs\LICENSE; size: 32 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\classlist; size: 41846 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fontconfig.bfc; size: 4672 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fontconfig.properties.src; size: 12565 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\DroidSans-Bold.ttf; size: 194488 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\DroidSans.ttf; size: 190776 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\DroidSansMono.ttf; size: 119380 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\DroidSansMonoDotted.ttf; size: 117696 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\DroidSansMonoSlashed.ttf; size: 117744 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\DroidSerif-Bold.ttf; size: 185228 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\DroidSerif-BoldItalic.ttf; size: 190304 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\DroidSerif-Italic.ttf; size: 177560 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\DroidSerif-Regular.ttf; size: 172916 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\FiraCode-Bold.ttf; size: 324328 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\FiraCode-Light.ttf; size: 285000 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\FiraCode-Medium.ttf; size: 294960 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\FiraCode-Regular.ttf; size: 299152 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\FiraCode-Retina.ttf; size: 295252 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\font.conf; size: 584 bytes; exists: false
+       File options set to: [fileTime: Sat Oct 23 13:52:05 ICT 2021, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\fonts.dir; size: 36170 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\Inconsolata.ttf; size: 22416 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\JetBrainsMono-Bold-Italic.ttf; size: 149732 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\JetBrainsMono-Bold.ttf; size: 142612 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\JetBrainsMono-Italic.ttf; size: 149180 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\JetBrainsMono-Regular.ttf; size: 142628 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\Roboto-Light.ttf; size: 140276 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\Roboto-Thin.ttf; size: 130044 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\SourceCodePro-Bold.ttf; size: 197004 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\SourceCodePro-BoldIt.ttf; size: 162976 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\SourceCodePro-It.ttf; size: 163624 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\fonts\SourceCodePro-Regular.ttf; size: 197644 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\jawt.lib; size: 1682 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\jfr\default.jfc; size: 30403 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\jfr\profile.jfc; size: 30361 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\jrt-fs.jar; size: 106285 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\jvm.cfg; size: 29 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\jvm.lib; size: 954712 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\modules; size: 96212201 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\psfont.properties.ja; size: 3793 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\psfontj2d.properties; size: 11390 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\security\blacklisted.certs; size: 2527 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\security\cacerts; size: 106474 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\security\default.policy; size: 10124 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\security\public_suffix_list.dat; size: 234478 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\server\Xusage.txt; size: 1322 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\tzdb.dat; size: 107773 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\lib\tzmappings; size: 9577 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\jre\release; size: 774 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\i4jdel.exe; size: 91168 bytes; exists: false
+       File options set to: [fileTime: Tue Mar 23 00:23:32 ICT 2021, mode: 644, overwriteMode: Always, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\i4jinst.dll; size: 193760 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\README.txt; size: 1607 bytes; exists: false
+       File options set to: [fileTime: Tue Mar 23 00:23:32 ICT 2021, mode: 644, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\bin\ant.jar; size: 14464 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\bin\exe4j.exe; size: 365288 bytes; exists: false
+       File options set to: [fileTime: Tue Mar 23 00:23:32 ICT 2021, mode: 755, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\bin\exe4j.jar; size: 3249879 bytes; exists: false
+       File options set to: [fileTime: Tue Mar 23 00:23:32 ICT 2021, mode: 644, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\bin\exe4jc.exe; size: 325352 bytes; exists: false
+       File options set to: [fileTime: Tue Mar 23 00:23:32 ICT 2021, mode: 755, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\bin\options\base.options; size: 455 bytes; exists: false
+       File options set to: [fileTime: Tue Mar 23 00:23:32 ICT 2021, mode: 644, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\bin\options\mac.options; size: 161 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\bin\options\win.options; size: 170 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\config\config_template.xml; size: 72 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\config\help.xml; size: 514 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\config\template.exe4j; size: 203 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\config\transforms\transform_1.replacements; size: 558 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\config\transforms\transform_1.xsl; size: 599 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\config\transforms\transform_2.xsl; size: 951 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\config\transforms\transform_3.xsl; size: 560 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\cli\HelloCli.class; size: 528 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\cli\HelloCli.java; size: 184 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\cli\hello.exe; size: 388096 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\cli\hello.exe4j; size: 529 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\gui\HelloGui.class; size: 5344 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\gui\HelloGui.java; size: 3143 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\gui\hello.bmp; size: 276054 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\gui\hello.exe; size: 498688 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\gui\hello.exe4j; size: 970 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\gui\hello.ico; size: 40280 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\service\ServiceDemo$ShutdownThread.class; size: 1155 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\service\ServiceDemo.class; size: 2085 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\service\ServiceDemo.java; size: 1870 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\service\service.exe4j; size: 488 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\demo\service\svc_demo.exe; size: 395264 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\doc\help.pdf; size: 148052 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\exe4jlib.jar; size: 34650 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\allclasses-index.html; size: 6396 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\allclasses.html; size: 1335 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\allpackages-index.html; size: 4787 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\com\exe4j\Controller.ConnectionException.html; size: 7410 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\com\exe4j\Controller.StartupListener.html; size: 8583 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\com\exe4j\Controller.html; size: 12774 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\com\exe4j\package-summary.html; size: 6224 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\com\exe4j\package-tree.html; size: 5337 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\constant-values.html; size: 4380 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\deprecated-list.html; size: 4295 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\element-list; size: 10 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\help-doc.html; size: 9261 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\index-all.html; size: 7725 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\index.html; size: 762 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\external\jquery\jquery.js; size: 287630 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\images\ui-bg_glass_55_fbf9ee_1x400.png; size: 335 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\images\ui-bg_glass_65_dadada_1x400.png; size: 262 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\images\ui-bg_glass_75_dadada_1x400.png; size: 262 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\images\ui-bg_glass_75_e6e6e6_1x400.png; size: 262 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\images\ui-bg_glass_95_fef1ec_1x400.png; size: 332 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\images\ui-bg_highlight-soft_75_cccccc_1x100.png; size: 280 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\images\ui-icons_222222_256x240.png; size: 6922 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\images\ui-icons_2e83ff_256x240.png; size: 4549 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\images\ui-icons_454545_256x240.png; size: 6992 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\images\ui-icons_888888_256x240.png; size: 6999 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\images\ui-icons_cd0a0a_256x240.png; size: 4549 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jquery-3.5.1.js; size: 287630 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jquery-ui.css; size: 20275 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jquery-ui.js; size: 71563 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jquery-ui.min.css; size: 17416 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jquery-ui.min.js; size: 32162 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jquery-ui.structure.css; size: 2555 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jquery-ui.structure.min.css; size: 1787 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jszip-utils\dist\jszip-utils-ie.js; size: 2444 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jszip-utils\dist\jszip-utils-ie.min.js; size: 1610 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jszip-utils\dist\jszip-utils.js; size: 4483 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jszip-utils\dist\jszip-utils.min.js; size: 1777 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jszip\dist\jszip.js; size: 366226 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\jquery\jszip\dist\jszip.min.js; size: 95827 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\member-search-index.js; size: 458 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\member-search-index.zip; size: 311 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\overview-tree.html; size: 5327 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\package-search-index.js; size: 92 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\package-search-index.zip; size: 225 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\resources\glass.png; size: 499 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\resources\x.png; size: 394 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\script.js; size: 6040 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\search.js; size: 13299 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\serialized-form.html; size: 4790 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\stylesheet.css; size: 22271 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\type-search-index.js; size: 210 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\javadoc\type-search-index.zip; size: 270 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\animal-sniffer-annotations-1.17.jar; size: 3202 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\asn-one-0.5.0.jar; size: 23339 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\bcpkix-jdk15on-1.67.jar; size: 887810 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\bcprov-jdk15on-1.67.jar; size: 5961136 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\checker-qual-2.5.2.jar; size: 41557 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\commons-compress-1.20.jar; size: 383656 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\commons-math-2.2.jar; size: 628441 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\eddsa-0.3.0.jar; size: 54580 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\error_prone_annotations-2.2.0.jar; size: 3966 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\failureaccess-1.0.1.jar; size: 4095 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\flatlaf-1.1-PRE1.jar; size: 352177 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\flatlaf-extras-1.1-PRE1.jar; size: 68427 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\flatlaf-jide-oss-1.1-PRE1.jar; size: 26079 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\guava-27.1-jre.jar; size: 1191166 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\j2objc-annotations-1.1.jar; size: 4615 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\jargs-1.0.jar; size: 4841 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\jclasslib-data-5.7.1-PRE1.jar; size: 177639 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\jdom2-2.0.6.jar; size: 176107 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\jide-3.7.10.jar; size: 3752160 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\jool-0.9.12.jar; size: 600435 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\jzlib-1.1.3.jar; size: 70742 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\kotlin-reflect-1.4.30.jar; size: 1289033 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\kotlin-stdlib-1.4.30.jar; size: 1399466 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\kotlin-stdlib-common-1.4.30.jar; size: 349950 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\kotlin-stdlib-jdk7-1.4.30.jar; size: 27136 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\kotlin-stdlib-jdk8-1.4.30.jar; size: 8345 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\miglayout-core-4.2.jar; size: 52258 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\miglayout-swing-4.2.jar; size: 10922 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\slf4j-api-1.7.30.jar; size: 32384 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\slf4j-jdk14-1.7.28.jar; size: 7308 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\sshj-0.31.0.jar; size: 259843 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\lib\svgSalamander-1.1.2.4.jar; size: 171736 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\license.html; size: 12606 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\license.txt; size: 11406 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\i4jdel.exe; size: 91168 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\manifest; size: 1256 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\manifest.64; size: 1260 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\manifest.dpi; size: 1508 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\manifest.dpi.64; size: 1513 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\messages\languages; size: 31 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\messages\messages_de.utf8; size: 2440 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\messages\messages_en.utf8; size: 2135 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\messages\messages_fr.utf8; size: 2241 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\winln.bin; size: 229376 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\winln.bin.64; size: 275456 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\winsvc.bin; size: 236544 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\resource\winsvc.bin.64; size: 285184 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\uninstall.exe; size: 746216 bytes; exists: false
+       File options set to: [fileTime: Tue Mar 23 00:23:32 ICT 2021, mode: 700, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\inst_jre.cfg; size: 65 bytes; exists: false
+       File options set to: [fileTime: Sat Oct 23 13:52:56 ICT 2021, mode: 644, overwriteMode: Always, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\pref_jre.cfg; size: 61 bytes; exists: false
+       File options set to: [fileTime: Sat Oct 23 13:52:56 ICT 2021, mode: 644, overwriteMode: Always, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\i4jruntime.jar; size: 1977148 bytes; exists: false
+       File options set to: [fileTime: Sat Oct 23 13:52:56 ICT 2021, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\MessagesDefault; size: 34805 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\i4jparams.conf; size: 71228 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\stats.properties; size: 992 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\user.jar; size: 7556 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\user\flatlaf.jar; size: 520699 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\i4j_extf_0_2krc09.utf8; size: 34805 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\i4j_extf_1_2krc09.html; size: 12606 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\i4j_extf_2_2krc09_pz5z9g.ico; size: 34348 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\i4j_extf_3_2krc09_18gg8kx.png; size: 9202 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\i4j_extf_3_2krc09_18gg8kx@2x.png; size: 15419 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\i4j_extf_3_2krc09_18gg8kx@2x_dark.png; size: 15837 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\i4j_extf_3_2krc09_18gg8kx_dark.png; size: 8891 bytes; exists: false
+       Install file: D:\SOF2041\thamkhao\PS13132_LanhQuocKhanh_SOF2041\exe4j\.install4j\installer.ico; size: 15749 bytes; exists: false
+       Execute action successful after 10029 ms
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction [ID 29]: Execute action
+       Property categories: Application
+       Property linkDirectory: /usr/local/bin
+       Property programGroupEntryConfigs: [ProgramGroupFileConfig{target=doc\help.pdf, arguments='', runAsAdministrator=false}, ProgramGroupFileConfig{target=doc\index.html, arguments='', runAsAdministrator=false}]
+       Property programGroupName: exe4j
+       Property uninstallerMenuName: exe4j Uninstaller
+       Property addDefaultLauncherLinks: true
+       Property addUninstaller: false
+       Property allUsers: false
+       Property failForSymlinksNotCreated: false
+       Property rollbackSupported: true
+       Property unixMenuEntries: true
+       Property unixSymlinks: true
+       Variable changed: sys.programGroupName=exe4j[class java.lang.String]
+       Variable changed: sys.symlinkDir=/usr/local/bin[class java.lang.String]
+       Install file: C:\Users\quang\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\exe4j\exe4j Wizard.lnk; size: 1244 bytes; exists: false
+       File options set to: [fileTime: Sat Oct 23 13:52:56 ICT 2021, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Install file: C:\Users\quang\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\exe4j\Documentation\exe4j Printable Manual.lnk; size: 1101 bytes; exists: false
+       File options set to: [fileTime: Sat Oct 23 13:52:56 ICT 2021, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Execute action successful after 255 ms
+[INFO] com.install4j.runtime.beans.actions.desktop.RegisterAddRemoveAction [ID 30]: Execute action
+       Property icon: null
+       Property iconSource: Installer icon
+       Property itemName: exe4j 8.0
+       Property persistentProperties: {}
+       Property rollbackSupported: true
+       Execute action successful after 43 ms
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateFileAssociationAction [ID 31]: Execute action
+       Property description: exe4j project files
+       Property extension: exe4j
+       Property launcherId: 2
+       Property macIconFile: 
+       Property macRole: Viewer
+       Property persistentProperties: {}
+       Property unixIconFile: null
+       Property unixMimeType: 
+       Property winAdditionalParameters: null
+       Property windowsIconFile: i4j_extf_2_2krc09_pz5z9g.ico
+       Property mac: false
+       Property restartFinder: false
+       Property rollbackSupported: true
+       Property selected: true
+       Property unix: false
+       Property windows: true
+       using internal name exe4j
+       Execute action successful after 43 ms
+[INFO] com.install4j.runtime.beans.actions.files.AddWindowsFileRightsAction [ID 217]: Execute action
+       Property files: [demo]
+       Property group: Authenticated users
+       Property sidOrAccountName: null
+       Property all: true
+       Property execute: false
+       Property read: false
+       Property rollbackSupported: false
+       Property write: false
+       Execute action successful after 37 ms
+[INFO] com.install4j.runtime.beans.screens.InstallationScreen [ID 26]: Rollback barrier reached
+       command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.FinishedScreen [ID 32]: Show screen
+       Variable changed: executeLauncherAction=true[class java.lang.Boolean]
+[INFO] com.install4j.runtime.beans.actions.finish.ExecuteLauncherAction [ID 42]: Execute action
+       Property arguments: null
+       Property launcherId: 2
+       Property rollbackSupported: false
+       execute directly
+       Execute action successful after 561 ms
+[INFO] com.install4j.runtime.beans.screens.FinishedScreen [ID 32]: command: finish
+       cleaning up
+       Finished at 2021-10-23 13:52:59

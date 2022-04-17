@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="7.0" transformSequenceNumber="3">
+  <application name="Hello World" distributionSourceDir="." />
+  <executable name="hello" executableDir="." redirectStderr="false" executableMode="console" changeWorkingDirectory="false" dpiAware="false" amd64="false" />
+  <splashScreen>
+    <text>
+      <versionLine y="40" />
+    </text>
+  </splashScreen>
+  <java mainClass="HelloCli" minVersion="1.7">
+    <classPath>
+      <directory location="." />
+    </classPath>
+  </java>
+</exe4j>
